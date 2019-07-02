@@ -1,0 +1,10 @@
+Name,Address,State,LAT,LON
+TRANSCROP HILTON ABUJA, 1 Aguiyi Ironsi St Maitama 900001 Abuja,Abuja, 9.074943, 7.495021
+ROCKVIEW HOTEL, Unnamed Road Wuse Abuja ,Abuja, 9.074321, 7.489060
+NICON LUXURY, oNicon Luxury Tafawa Balewa Way Plot 903 Area 11 Garki Abuja ,Abuja, 9.045579, 7.493964
+ABUJA SHERATON HOTEL & TOWERS, ladi Kwali St Wuse 021189 Abuja ,Abuja, 9.063616, 7.484043
+SPRINGVIEW HOTEL, 50 Julius Nyerere Cressent Asokoro Abuja ,Abuja, 9.046744, 7.521743
+Eko Hotels & Suites, 1415 Adetokunbo Ademola Street Victoria Island Lagos ,Lagos, 6.426762, 3.430758
+Hilton Park & Resort Ltd, 64A Asuke Drive Sun City Layout Nike Enugu ,Enugu, 6.506602, 7.510083
+Grand Ibro Hotel, 1 Abdulahi Fodio Rd Minanata Sokoto ,Sokoto, 13.064826, 5.218426
+Power Mike Hotels, 9 Argungu Close Off Benue Cresent Area 1 Garki Jigawa ,Jigawa, 12.445842, 9.182462
